@@ -1,0 +1,25 @@
+<mxfile host="65bd71144e">
+    <diagram id="EjntP4od5pN2s2L_er_c" name="Page-1">
+        <mxGraphModel dx="1212" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="8watVwx3nSjHU43uHNGw-1" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer" value="" vertex="1">
+                    <mxGeometry height="45" width="50" x="180" y="450" as="geometry"/>
+                </mxCell>
+                <mxCell id="8watVwx3nSjHU43uHNGw-4" edge="1" parent="1" source="8watVwx3nSjHU43uHNGw-2" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="8watVwx3nSjHU43uHNGw-3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8watVwx3nSjHU43uHNGw-2" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" value="" vertex="1">
+                    <mxGeometry height="140" width="140" x="230" y="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="8watVwx3nSjHU43uHNGw-3" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" value="" vertex="1">
+                    <mxGeometry height="120" width="130" x="520" y="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="8watVwx3nSjHU43uHNGw-5" edge="1" parent="1" source="8watVwx3nSjHU43uHNGw-2" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;curved=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="8watVwx3nSjHU43uHNGw-1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

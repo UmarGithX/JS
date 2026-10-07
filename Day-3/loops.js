@@ -30,22 +30,21 @@
 //     console.log(i , "X" , table, "=" , i*table);
 //     i++;
 // }
-
-// let table = 3;
-// let i = 1;
-// do{
-//     console.log(i , "X" , table, "=" , i*table);
-//     i++;
-// }while(i<=10);
+let table = 10;
+let i = 1;
+do{
+    console.log(i , "X" , table, "=" , i*table);
+    i++;
+}while(i<=20);
 
 // for of loop
 
-let a = "maaz";
-let len = 0;
-for (const s of a) {
-    console.log(s);
-    len++
-}
-console.log(len);
+// let a = "maaz";
+// let len = 0;
+// for (const s of a) {
+//     console.log(s);
+//     len++
+// }
+// console.log(len);
 
 

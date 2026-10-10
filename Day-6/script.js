@@ -26,5 +26,18 @@ document.querySelector("body").append(spa) // this line do both works
 // 2)show it on web
 
 
-// ========================================================================//
- 
+// ===========================REMOVING ITEM=============================================//
+// spa.remove() // this will remove the item form the page
+
+// ============================Adding Style=============================================//
+let bttn = document.createElement("button")
+bttn.innerHTML = "click me!"
+bttn.style.color = "red" // The style will add styling to the node
+bttn.style.backgroundColor = "green"
+
+document.querySelector("div").append(bttn)
+
+//==============================Giving styles from JS ==================================//
+
+let para = document.querySelector("p")
+para.classList.add("newClass")

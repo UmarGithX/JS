@@ -1,0 +1,19 @@
+h1 {
+    color: pink;
+    background-color: lightcoral;
+    /* visibility: hidden; */
+
+}
+
+body {
+    background-color: pink;
+}
+
+.heading-class {
+    background-color: gray;
+}
+div{
+    border: 2px solid black;
+    margin: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

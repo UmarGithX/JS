@@ -4,3 +4,9 @@
 p{
     background-color: pink;
 }
+button{
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    border-radius: 20px;
+}

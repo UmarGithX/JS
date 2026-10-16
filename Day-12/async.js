@@ -1,3 +1,4 @@
+// callBack Hell 
 let getData = (dataId,getNextData) => {
     setTimeout(() => {
         console.log("data", dataId);
@@ -17,3 +18,6 @@ getData(1, () =>{
         })
     }); 
 })
+
+// Promises 
+
